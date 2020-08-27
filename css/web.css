@@ -4,7 +4,8 @@
     }
 h1{
     text-align: center;
-    font-family: cursive;  
+    font-family: cursive;
+    margin: 10px;
 }  
 p{
     background-color: indianred;
